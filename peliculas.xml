@@ -1,0 +1,19 @@
+﻿<peliculas>
+	<pelicula fechaEstreno="19/12/2007">
+		<titulo>Los Otros </titulo>
+		<director>Alejandro Amenabar</director>
+	</pelicula>
+	<pelicula fechaEstreno="15/11/1986">
+		<titulo>Matrix </titulo>
+		<director>Ethan Coen </director>
+	</pelicula>
+	<pelicula fechaEstreno="14/06/1990">
+		<titulo>No es país para pobres </titulo>
+		Ethan Coen </director>
+		<director>Joel Coen </director>
+	</pelicula>
+	<pelicula fechaEstreno="19/12/2007">
+		<titulo> Harry Potter
+		<director> Peter Jackson</director>
+	</pelicula>
+</peliculas>
